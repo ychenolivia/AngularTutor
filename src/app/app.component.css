@@ -1,0 +1,29 @@
+.tittle {
+  display: flex;
+  justify-content: center;
+  color: white;
+  font-size: 40px;
+  padding: 10px;
+}
+
+.content {
+  display: flex;
+  justify-content: center;
+  color: white;
+  font-size: 20px;
+  padding: 10px;
+}
+
+.buttons {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.button1 {
+  width: 100px;
+  margin: 30px;
+
+}
+
+
