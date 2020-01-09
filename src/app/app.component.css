@@ -17,7 +17,7 @@
 .buttons {
   display: flex;
   justify-content: center;
-  flex-wrap: wrap;
+  flex-wrap: wrap; //一行放不下自动放第二行
 }
 
 .button1 {
